@@ -25,8 +25,8 @@ table th{color: black;}
 table{width: 100%;}
 h2{margin-left: 10px;}
 h1{margin-left: 10px;}
-table tr:nth-child(2){color: orange;}
-table tr:nth-child(3){color: crimson;}
+table tr:nth-child(1){color: orange;}
+table tr:nth-child(2){color: crimson;}
 .card4 label{display:block;font-size:14px;color:#86898f;}
 .card4 h2{text-align: center;}
 .email{display: inline-block;margin-left: 15px;width: calc(50% - 20px);}
